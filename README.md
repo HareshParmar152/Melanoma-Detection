@@ -1,6 +1,7 @@
  # Melanoma Detection via Convolutional Neural Network (CNN)
 > The objective of this project is to create a Convolutional Neural Network (CNN) to classify a dermoscopic image of a skin lesion in 9 different classes. A dermoscopic image is a picture of the skin using a microscope and illumination.
 
+Data source : https://drive.google.com/file/d/1xLfSQUGDl8ezNNbUkpuHOYvSpTyxVhCs/view?usp=sharing
 
 ## Table of Contents
 * [General Info](#general-information)
