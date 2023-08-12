@@ -45,7 +45,7 @@
 - This project was based in Melanoma detection assignment in upGrad course.
 
 ## Contact
-Created by [@Subha] - feel free to contact me!
+Created by Haresh Parmar - feel free to contact me!
 
 
 <!-- Optional -->
